@@ -11,5 +11,6 @@ Day 10 � Flask REST API (Backend Developer Mode) = Done.
 11:19 AM 26/02/19
 Day 11 � POST API (Data Receive From Frontend) = Done.
 Day 12 � PUT & DELETE API (CRUD Complete) = Done.
+Day 13 – SQLite Database Integration (Real Database CRUD) = Done.
 
 
